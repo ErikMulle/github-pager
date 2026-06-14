@@ -5,7 +5,7 @@ Erik Victor Muller
 
 ## Descrição
 
-Projeto acadêmico desenvolvido para a bootcam
+Projeto acadêmico desenvolvido para a bootcamp
 
 ## Tecnologias Utilizadas
 
