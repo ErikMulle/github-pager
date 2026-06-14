@@ -35,3 +35,4 @@ bootcamp
 ## Instituição
 
 CEUB - Centro Universitário de Brasília
+linkedin: https://www.linkedin.com/in/erik-victor-muller-6336a940b/
