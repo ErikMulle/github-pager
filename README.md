@@ -1,2 +1,37 @@
-# github-pager
-diretorio que tenho os documentos do github pages
+ PortfolioHUB
+
+## Autor
+Erik Victor Muller
+
+## Descrição
+
+Projeto acadêmico desenvolvido para a bootcamp
+
+## Tecnologias Utilizadas
+
+- Google Sites
+- GitHub
+- GitHub Pages
+
+## Acesso
+
+### Site Principal
+
+https://sites.google.com/view/portifoliohubri
+
+### GitHub Pages
+
+https://erikmulle.github.io/github-pager/
+
+### Repositório
+
+https://github.com/ErikMulle/github-pager
+
+
+## Disciplina
+
+bootcamp
+
+## Instituição
+
+CEUB - Centro Universitário de Brasília
